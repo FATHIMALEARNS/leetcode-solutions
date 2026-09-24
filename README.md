@@ -3,7 +3,7 @@ one problem at a time until DSA stops looking scary
 
 A collection of my solutions to LeetCode problems while preparing for technical interviews and improving my problem-solving skills.
 
-Languages: Python, C++
+Languages: Python
 
 Topics covered:
 
