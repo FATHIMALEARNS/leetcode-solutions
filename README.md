@@ -18,3 +18,18 @@ Trees & Graphs
 Dynamic Programming
 
 Goal: Consistently improve problem-solving and DSA skills.
+
+## 📊 Progress
+
+| Difficulty | Solved |
+|------------|--------|
+| 🟢 Easy    | 1      |
+| 🟡 Medium  | 0      |
+| 🔴 Hard    | 0      |
+| **Total**  | **1**  |
+
+## 🧩 Solved Problems
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Python](0001-two-sum/solution.py) |
