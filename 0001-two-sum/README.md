@@ -24,6 +24,8 @@ For each number:
 - **Time:** O(n)
 - **Space:** O(n)
 
+🔗 [Solve on LeetCode](https://leetcode.com/problems/two-sum/)
+
 ## Solution
 
 See [`solution.py`](solution.py)
